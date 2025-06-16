@@ -38,7 +38,7 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mike-Zorbas&show_icons=true&theme=tokyonight" alt="Mike Zorbas GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mike-Zorbas&show_icons=true" alt="Mike Zorbas GitHub stats" />
 </p>
 
 
@@ -47,7 +47,7 @@
 ### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mike-Zorbas&theme=tokyo-night" />
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mike-Zorbas&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 ---
