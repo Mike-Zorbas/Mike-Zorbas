@@ -23,6 +23,7 @@
 ### 🧠 Languages & Tools
 
 <p>
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" />
@@ -31,6 +32,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-plain.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</p>
+
+<!-- Security Tools -->
+<p>
+  <img src="https://img.shields.io/badge/Tool-Nmap-blue?logo=data:image/svg+xml;base64,&style=flat" />
+  <img src="https://img.shields.io/badge/Tool-OWASP%20ZAP-brightgreen?logo=owasp&style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Metasploit-black?logo=metasploit&style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Nikto-red?style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Dirbuster-yellow?style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-orange?style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Aircrack--ng-lightgrey?style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Hydra-green?style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Hashcat-9cf?style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Wireshark-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Tool-Maltego-darkblue?style=flat" />
+  <img src="https://img.shields.io/badge/Kali%20Linux%20Suite-%E2%9C%94%EF%B8%8F-blueviolet?style=flat" />
 </p>
 
 ---
