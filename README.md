@@ -41,17 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mike-Zorbas&show_icons=true&theme=tokyonight" alt="Mike Zorbas GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike-Zorbas&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ⚔️ GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Mike-Zorbas&theme=tokyonight" />
-</p>
 
 ---
 
