@@ -38,7 +38,7 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mike-Zorbas&show_icons=true" alt="Mike Zorbas GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mike-Zorbas&show_icons=true&theme=tokyonight" alt="Mike Zorbas GitHub stats" />
 </p>
 
 
