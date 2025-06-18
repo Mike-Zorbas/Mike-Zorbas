@@ -1,4 +1,4 @@
-<h2>root~ $ cat README.md</h2>
+<h2>root$ cat README.md</h2>
 <h3 align="center">Cyber Security Specialist | Purple Teamer | Toolsmith</h3>
 
 <p align="center">
